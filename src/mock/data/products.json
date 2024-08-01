@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "極保濕修護組",
+    "prize": 1069,
+    "cover": "https://images.pexels.com/photos/6847873/pexels-photo-6847873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "1. 高科技前導技術,快速疏通肌脂通道,有效解決輕度肌膚屏障受損、敏感或暗沉2. 無重力水感小分子，將修護油轉化至小於肌膚間質通道的奈米級微粒,有效滲透肌底3. 水感油配方，透過高科技處,將黏稠油脂轉化為液態配方,肌膚更容易吸收4. 通過貼布測試/無香料/無酒精/無Paraben/無色素/無礦物油",
+    "images": [
+        "https://images.pexels.com/photos/6847873/pexels-photo-6847873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/4841341/pexels-photo-4841341.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/4841237/pexels-photo-4841237.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/4841389/pexels-photo-4841389.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "青春抗痘組",
+    "prize": 1630,
+    "cover": "https://images.pexels.com/photos/9775406/pexels-photo-9775406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "1. 高科技前導技術,快速疏通肌脂通道,有效解決輕度肌膚屏障受損、敏感或暗沉2. 無重力水感小分子，將修護油轉化至小於肌膚間質通道的奈米級微粒,有效滲透肌底3. 水感油配方，透過高科技處,將黏稠油脂轉化為液態配方,肌膚更容易吸收4. 通過貼布測試/無香料/無酒精/無Paraben/無色素/無礦物油",
+    "images": [
+        "https://images.pexels.com/photos/9775406/pexels-photo-9775406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wkThVHZfqm_vdrmnhqtOG_JCKX4wDHq3dyvMMKG1n55fuSUv",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4mDbzyYGaDej2zu_7zLaSL_61y6J0BV4nYGcSiGRS-OY6Sic9",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0Z_e43PWmxve4xnXMty7CrSfwsB1z63zlgVXyMTZaX6vEY8he"
+    ] 
+  },
+  {
+    "id": 3,
+    "title": "亮白美顏組",
+    "prize": 1900,
+    "cover": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTagyYX9g8YZ7M_7alrjMtz8nVDzTHQwSGfDIw07-D6hpTwCK24",
+    "desc": "1. 高科技前導技術,快速疏通肌脂通道,有效解決輕度肌膚屏障受損、敏感或暗沉2. 無重力水感小分子，將修護油轉化至小於肌膚間質通道的奈米級微粒,有效滲透肌底3. 水感油配方，透過高科技處,將黏稠油脂轉化為液態配方,肌膚更容易吸收4. 通過貼布測試/無香料/無酒精/無Paraben/無色素/無礦物油",
+    "images": [
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTagyYX9g8YZ7M_7alrjMtz8nVDzTHQwSGfDIw07-D6hpTwCK24",
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT83GJiFSOg2avLYnrd6mto-PWuh-NakQxD_93-dYZc5OWiCRde",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOXL331NFN9zxxp8XfnoQRRCsOkvV6eixmUh_ad-i_xCgoMXtO",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBrCicpFfv6bfezOTZI31oM7gAtMVta8tZUECFqwGXIFtDrv_3"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "極保濕乳液",
+    "prize": 500,
+    "cover": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbFerpSCZl1PirhiyZyir2ZmFon9aIB1Hmg-y8cSzxXNGTi2NB",
+    "desc": "1. 高科技前導技術,快速疏通肌脂通道,有效解決輕度肌膚屏障受損、敏感或暗沉2. 無重力水感小分子，將修護油轉化至小於肌膚間質通道的奈米級微粒,有效滲透肌底3. 水感油配方，透過高科技處,將黏稠油脂轉化為液態配方,肌膚更容易吸收4. 通過貼布測試/無香料/無酒精/無Paraben/無色素/無礦物油",
+    "images": [
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbFerpSCZl1PirhiyZyir2ZmFon9aIB1Hmg-y8cSzxXNGTi2NB",
+      "https://images.pexels.com/photos/4841531/pexels-photo-4841531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTf_oPHQIHWjCS14NHetsAqna8m7hsvHgseNJwKO4Q9rKcorub",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSLeHiO5cMHw6ff49wHm4MSJ_M21dPqdrfM8TIvstSt3XHGW-8"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "毛孔緊緻霜",
+    "prize": 900,
+    "cover": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9rvrygOBC3o6DG_QvlLPbK6z7PNZx13ihP0l3v00YiJ31hjhE",
+    "desc": "1. 高科技前導技術,快速疏通肌脂通道,有效解決輕度肌膚屏障受損、敏感或暗沉2. 無重力水感小分子，將修護油轉化至小於肌膚間質通道的奈米級微粒,有效滲透肌底3. 水感油配方，透過高科技處,將黏稠油脂轉化為液態配方,肌膚更容易吸收4. 通過貼布測試/無香料/無酒精/無Paraben/無色素/無礦物油",
+    "images": [
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9rvrygOBC3o6DG_QvlLPbK6z7PNZx13ihP0l3v00YiJ31hjhE",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYecqajgcA0naQ93Zzqc4zE4pItGit29krXHQvBOsaqGAsXJTu",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQvfzUJyhDyT-VK_wD56Z7h0O1N_N4LPg-i7FlYT48SdVuT0cR",
+      " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd3BoPzNFHcX1WK8Fsdjyjcsb2moCjFDNWbL051aalpjTn9_9l"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "亮白乳液",
+    "prize": 1050,
+    "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnbmE_tKOy2tLQKSakJzUX92LSC8lHMjLgbU4q9VDV2ZpqM_-4",
+    "desc": "1. 高科技前導技術,快速疏通肌脂通道,有效解決輕度肌膚屏障受損、敏感或暗沉2. 無重力水感小分子，將修護油轉化至小於肌膚間質通道的奈米級微粒,有效滲透肌底3. 水感油配方，透過高科技處,將黏稠油脂轉化為液態配方,肌膚更容易吸收4. 通過貼布測試/無香料/無酒精/無Paraben/無色素/無礦物油",
+    "images": [
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnbmE_tKOy2tLQKSakJzUX92LSC8lHMjLgbU4q9VDV2ZpqM_-4",
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVdHxjnt1qzupnRMMLuT2-7CkjzY0we-OmPolgIiJKvPp0S3NT",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYsMup1l-LcIrzfFvPV5vAunsPh3gyg-xfBJMHH_8b924HacoJ",
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReB9ei-cMq4xMgVwCcAqcilhLu2N8pb9aklkM4gLk0K8NARZYk"
+    ]
+  }
+]
